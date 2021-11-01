@@ -36,17 +36,17 @@ async def start_(client: Client, message: Message):
 
 𝙏𝙃𝙄𝙎 𝙄𝙎 𝘼 𝘽𝙊𝙏 𝘿𝙀𝙎𝙄𝙂𝙉𝙀𝘿 𝙏𝙊 𝙋𝙇𝘼𝙔 𝙈𝙐𝙎𝙄𝘾 𝙄𝙉 𝙔𝙊𝙐𝙍 𝙂𝙍𝙊𝙐𝙋𝙎!
 
-𝙏𝙃𝙄𝙎 𝙄𝙎 𝘼 𝙋𝙍𝙄𝙑𝘼𝙏𝙀 𝙋𝙍𝙊𝙅𝙀𝘾𝙏 𝙊𝙁 [𝘼𝙏𝙏𝘼𝘾𝙆](https://t.me/Yaamiin)....𝙈𝘼𝘿𝙀 𝙒𝙄𝙏𝙃 ❤️
+𝙏𝙃𝙄𝙎 𝙄𝙎 𝘼 𝙋𝙍𝙄𝙑𝘼𝙏𝙀 𝙋𝙍𝙊𝙅𝙀𝘾𝙏 𝙊𝙁 [Wʜɪᴛᴇʜᴀᴛ](https://t.me/Somaliprogrammer)....𝙈𝘼𝘿𝙀 𝙒𝙄𝙏𝙃 ❤️
 
 𝙃𝙀𝙍𝙀 𝘼𝙍𝙀 𝙎𝙊𝙈𝙀 𝘾𝙈𝘿𝙎 𝙏𝙊 𝙐𝙎𝙀 𝙏𝙃𝙄𝙎 𝘽𝙊𝙏, 𝘾𝙇𝙄𝘾𝙆 » **/help**""",
         reply_markup=InlineKeyboardMarkup(
             [ 
                 [
                     InlineKeyboardButton(
-                        "➕ Sᴜᴍᴍᴏɴ Mᴇ​ ➕", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
+                        "➕ ᴋᴜ ᴅᴀʀsᴏ ɢʀᴏᴜᴘᴋᴀᴅᴀ 📛 ➕", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
                 ],[
                     InlineKeyboardButton(
-                        "​​Oᴡɴᴇʀ 🥀", url="https://t.me/Yaamiin"
+                        "​​Oᴡɴᴇʀ 🥀", url="https://t.me/Somalihacker1"
                     ),
                     InlineKeyboardButton(
                         "Sᴜᴘᴘᴏʀᴛ Cʜᴀᴛ 👥", url=f"https://t.me/{GROUP_SUPPORT}")
