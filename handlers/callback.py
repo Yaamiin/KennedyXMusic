@@ -47,7 +47,7 @@ async def cbstart(_, query: CallbackQuery):
                         "➕ Kᴜᴅᴀʀ ɢʀᴏᴜᴘ ➕", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
                 ],[
                     InlineKeyboardButton(
-                        "​​Oᴡɴᴇʀ 🥀", url="https://t.me/Somalihacker1"
+                        "​​Oᴡɴᴇʀ 🥀", url="https://t.me/@Somaliprogrammer"
                     ),
                     InlineKeyboardButton(
                         "Sᴜᴘᴘᴏʀᴛ Cʜᴀᴛ 👥", url=f"https://t.me/{GROUP_SUPPORT}")
