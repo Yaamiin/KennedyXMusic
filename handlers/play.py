@@ -535,7 +535,7 @@ async def play(_, message: Message):
                     InlineKeyboardButton("𝙈𝙀𝙉𝙐 ⏯ ", callback_data="menu"),
                 ],
                 [
-                    InlineKeyboardButton("𝙊𝙒𝙉𝙀𝙍 🥀", url=f"https://t.me/Yaamiin"),
+                    InlineKeyboardButton("𝙊𝙒𝙉𝙀𝙍 🥀", url=f"https://t.me/Somalihacker1"),
                     InlineKeyboardButton("👥 𝙅𝙊𝙄𝙉 𝘿𝙃𝙀𝙃 ", url=f"https://t.me/Somalimusicbot"),
                 ],
                 [InlineKeyboardButton(text="❌ 𝘾𝙇𝙊𝙎𝙀 ❌", callback_data="closed")],
@@ -585,7 +585,7 @@ async def play(_, message: Message):
                     InlineKeyboardButton("𝙈𝙀𝙉𝙐 ⏯ ", callback_data="menu"),
                 ],
                 [
-                    InlineKeyboardButton("𝙊𝙒𝙉𝙀𝙍 🥀", url=f"https://t.me/Yaamiin"),
+                    InlineKeyboardButton("𝙊𝙒𝙉𝙀𝙍 🥀", url=f"https://t.me/Somalihacker1"),
                     InlineKeyboardButton("👥 𝙎𝙐𝙋𝙋𝙊𝙍𝙏 ", url=f"https://t.me/Somalimusicbot"),
                     InlineKeyboardButton("Cʜᴀɴɴᴇʟ", url=f"https://t.me/{UPDATES_CHANNEL}"),
                     InlineKeyboardButton("Gʀᴏᴜᴘ ", url=f"https://t.me/{GROUP_SUPPORT}"),
@@ -766,7 +766,7 @@ async def lol_cb(b, cb):
                     InlineKeyboardButton("𝙈𝙀𝙉𝙐 ⏯ ", callback_data="menu"),
                 ],
                 [
-                    InlineKeyboardButton("𝙊𝙒𝙉𝙀𝙍 🥀", url=f"https://t.me/Yaamiin"),
+                    InlineKeyboardButton("𝙊𝙒𝙉𝙀𝙍 🥀", url=f"https://t.me/Somalihacker1"),
                     InlineKeyboardButton("👥 𝙅𝙊𝙄𝙉 𝘿𝙃𝙀𝙃 ", url=f"https://t.me/Somalimusicbot"),
                 ],
                 [InlineKeyboardButton(text="❌ 𝘾𝙇𝙊𝙎𝙀 ❌", callback_data="closed")],
@@ -916,7 +916,7 @@ async def ytplay(_, message: Message):
                     InlineKeyboardButton("𝙈𝙀𝙉𝙐 ⏯ ", callback_data="menu"),
                 ],
                 [
-                    InlineKeyboardButton("𝙊𝙒𝙉𝙀𝙍 🥀", url=f"https://t.me/Yaamiin"),
+                    InlineKeyboardButton("𝙊𝙒𝙉𝙀𝙍 🥀", url=f"https://t.me/Somalihacker1"),
                     InlineKeyboardButton("👥 𝙎𝙐𝙋𝙋𝙊𝙍𝙏 ", url=f"https://t.me/somalimusicbot"),
                 ],
                 [InlineKeyboardButton(text="❌ 𝘾𝙇𝙊𝙎𝙀 ❌", callback_data="closed")],
