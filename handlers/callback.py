@@ -47,7 +47,7 @@ async def cbstart(_, query: CallbackQuery):
                         "➕ Kᴜᴅᴀʀ ɢʀᴏᴜᴘ ➕", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
                 ],[
                     InlineKeyboardButton(
-                        "​​Oᴡɴᴇʀ 🥀", url="https://t.me/Yaamiin"
+                        "​​Oᴡɴᴇʀ 🥀", url="https://t.me/Somalihacker1"
                     ),
                     InlineKeyboardButton(
                         "Sᴜᴘᴘᴏʀᴛ Cʜᴀᴛ 👥", url=f"https://t.me/{GROUP_SUPPORT}")
@@ -86,12 +86,12 @@ __{bn} licensed under the GNU General Public License v.3.0__
 • Assistant @{ASSISTANT_NAME}
 • Here is my [Owner](https://t.me/{OWNER_NAME})**
 
-💞 𝙈𝘼𝘿𝙀 𝙒𝙄𝙏𝙃 ❤️ 𝘽𝙔 𝘼𝙏𝙏𝘼𝘾𝙆 !""",
+💞 𝙈𝘼𝘿𝙀 𝙒𝙄𝙏𝙃 ❤️ 𝘽𝙔 Wʜɪᴛᴇʜᴀᴛ !""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "Oᴡɴᴇʀ​​", url="https://t.me/Yaamiim"
+                        "Oᴡɴᴇʀ​​", url="https://t.me/Somalihacker1"
                     ),
                     InlineKeyboardButton(
                         "Bᴀᴄᴋ​", callback_data="cbadvanced"
